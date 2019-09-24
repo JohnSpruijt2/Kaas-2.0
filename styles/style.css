@@ -1,0 +1,12 @@
+body {
+    background-color: yellow;
+    background-image: url("../images/kaaas.png");
+    text-align: center;
+    font-family: 'Mansalva', cursive;
+    font-size: 40px;
+}
+.kaasTitle {
+    text-align: center;
+    font-family: 'Ultra', serif;
+
+}
